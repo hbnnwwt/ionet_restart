@@ -47,7 +47,7 @@ EOF
 ## 3.修改脚本权限
 <!--sec data-title="OS X и Linux" data-id="OSX_Linux_whoami" data-collapse=true ces-->
 ```
-chmod +x /root/check.sh
+chmod +x /root/check_ionet.sh
 ```
 <!--endsec-->
 ## 4.可以先运行一下，可以看到脚本正在运行。
