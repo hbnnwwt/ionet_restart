@@ -53,7 +53,7 @@ chmod +x /root/check_ionet.sh
 ## 4.可以先运行一下，可以看到脚本正在运行。
 <!--sec data-title="OS X и Linux" data-id="OSX_Linux_whoami" data-collapse=true ces-->
 ```
-/root/check.sh
+/root/check_ionet.sh
 ```
 <!--endsec-->
 <img width="376" alt="image" src="https://github.com/hbnnwwt/ionet_restart/assets/116838445/e3cde7ea-95d9-4e3b-a680-3d8b15ea85d9">
